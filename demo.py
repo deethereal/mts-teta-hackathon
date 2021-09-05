@@ -15,7 +15,7 @@ def get_table_download_link(df):
     return f'<a href="data:file/csv;base64,{b64}" download="answers.csv">Download answers.csv</a>'
 
 model = joblib.load('models/main_model.pickle')
-target_name = ['personal','technical']
+target_name = ['user-friendly','technical']
 
 def data_prep(t):
 	df = t.copy()
