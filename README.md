@@ -1,4 +1,4 @@
-<h1 align="center">Hosts classifier</h1>
+<h1 align="center">Hosts classifier🥇</h1>
 <p align="center"><b>Сервис для классификации хостов на технические и user-friendly<br>Решение команды V3.0 на MTS.Teta Hackathon</b></p>
 
 ###  Задача 
